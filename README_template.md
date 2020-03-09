@@ -1,5 +1,3 @@
-# (README TEMPLATE)
-
 # Dataset title
 
 ## General information or Introduction section
